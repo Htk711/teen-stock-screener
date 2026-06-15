@@ -16,7 +16,7 @@ A free, interactive stock screener built for teenagers learning to invest — wi
 
 ## Why I built this
 
-Financial literacy is a gap that hurts young people most. This tool is part of a broader mission — [Cents & Sense](https://github.com), a free virtual financial literacy program I co-founded for middle and high schoolers. The screener gives teens a hands-on way to explore the market using companies they already know.
+Financial literacy is a gap that hurts young people most. This tool is part of a broader mission: to instill necessary financial literacy in teenagers. The screener gives teens a hands-on way to explore the market using companies they already know.
 
 ## Tech stack
 
